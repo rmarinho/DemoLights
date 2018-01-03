@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLights.iOS", "iOS\DemoL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLights.Droid", "Droid\DemoLights.Droid.csproj", "{4B08B240-226F-4C17-9FE8-C4016DE0D88C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAssistant", "..\Demo1\HomeAssistant\HomeAssistant.csproj", "{07F0B42E-4DB3-40F8-8F66-9D517735E1D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAssistant", "HomeAssistant\HomeAssistant.csproj", "{07F0B42E-4DB3-40F8-8F66-9D517735E1D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
